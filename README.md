@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Shah Mohammad Rizvi. You can call me Riz.
-- 👀 I’m interested in ML, Robotics, building scalable Web and Software applications and exploring new technologies.
-- 🌱 I’m currently learning Android App Development with Flutter
-- 💞️ I’m looking to collaborate on open-source projects related to App Development, Web Development.
+- 👋 Hi, I’m Shah Mohammad Rizvi.
+- 👀 I’m interested in Machine Learning, AI, Robotics, and exploring new technologies.
+- 🌱 Android App Developer (Flutter).
+- 🌟 Python, Dart, Java, C++, C.
 - 📫 How to reach me 22203174@iubat.edu or smrizvi.i29@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love trying out new coffee blends and experimenting with coffee brewing methods.
+- ⚡ Fun fact: I love traveling and coffee.
 
 <!---
 smri29/smri29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
