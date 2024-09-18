@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shah Mohammad Rizvi.
 - 👀 I’m interested in Machine Learning, AI, Robotics Engineering.
 - 🌱 Android App Developer (Flutter).
-- 🌟 Python, Dart, Java, C++, C, HTML, CSS, PHP, MySQL.
+- 🌟 Mostly use Python, Dart, Java, C++.
 - 📫 Reach me 22203174@iubat.edu or smrizvi.i29@gmail.com
 - ⚡ Fun fact: I love traveling and coffee.
 
