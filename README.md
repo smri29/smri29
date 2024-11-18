@@ -26,6 +26,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![DSA](https://img.shields.io/badge/-DSA-ff69b4?style=for-the-badge)
 
+## Profile Views:
+[![](https://visitcount.itsvg.in/api?id=smri29&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!---
 smri29/smri29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
