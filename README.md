@@ -8,6 +8,10 @@
 - 🎯 Target: To travel each country of the world.
 
 
+![Cool Animation](neural.gif)
+
+
+
 ## Interested in:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
