@@ -8,8 +8,7 @@
 - 🎯 Target: To travel each country of the world.
 
 
-<img src="neural.gif" alt="Animation" width="400px">
-<img src="200w.gif" alt="Animation" width="400px">
+<img src="neural.gif" alt="Animation" width="1000px">
 
 ## Interested in:
 
