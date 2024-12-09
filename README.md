@@ -9,7 +9,7 @@
 
 
 <img src="neural.gif" alt="Animation" width="400px">
-
+<img src="200w.gif" alt="Animation" width="400px">
 
 ## Interested in:
 
