@@ -64,7 +64,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/smri29)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/smri29)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/YourHandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/smr_i29)
 
 </div>
 
