@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="neural.gif" alt="Animation" width="800px" height="auto">
+  <img src="neural.gif" alt="Animation" width="750px" height="auto">
 </div>
 
 ## Interested in:
