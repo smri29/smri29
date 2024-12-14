@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Shah Mohammad Rizvi (You can call me Riz 😃)  
-### 📊 Researcher | 🌱 Android App Developer | 💻 Tech Enthusiast
+### 📊 Researcher | 🌱 Machine Learning | 💻 Tech Enthusiast
 
 ---
 
