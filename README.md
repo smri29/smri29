@@ -49,13 +49,6 @@
 
 ---
 
-### 🌟 **Profile Insights**
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=smri29&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
 ---
 
 ### ⚡ **Let's Connect**
