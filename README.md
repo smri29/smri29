@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Shah Mohammad Rizvi (You can call me Riz 😃)  
-### 📊 Researcher | 🌱 Machine Learning | 💻 Tech Enthusiast
+# 👋 Hi, I'm Shah Mohammad Rizvi (😃)  
+### 📊 Researcher | 📡 Machine Learning | 💻 Student
 
 ---
 
@@ -12,22 +12,21 @@
 ---
 
 ### 👀 **About Me**
-- 🔭 **Current Focus**: Machine Learning, AI, Robotics, and Data Analysis.  
-- 🌟 **Tech Stack**: Python, Dart, Java, C++, and JavaScript.  
-- ☕ **Fun Fact**: I love watching movies and coffee.  
-- 🎯 **Dream**: To travel to every country in the world.  
+- 🔭 **Current Focus**: AI, Machine Learning, Deep Learning, Robotics.  
+- 🌟 **Tech Stack**: Python, Dart, Java, C++, and C#.  
+- ☕ **Fun Fact**: Love watching movies and drinking coffee.  
+- 🎯 **Dream**: To travel to every country.  
 
 ---
 
 ### 🌱 **What I Do**
-- 📊 Researching innovative solutions in **AI** and **Machine Learning**.  
-- 🛠️ Developing Android apps using **Flutter**.  
+- 📊 Researching innovative solutions in **AI**, **Machine Learning**, $ **Deep Learning**.
 - 🤖 Passionate about **Robotics** and **Data Analysis**.  
 
 ---
 
 ### 📬 **Get in Touch**
-- **Email**: [22203174@iubat.edu](mailto:22203174@iubat.edu) | [smrizvi.i29@gmail.com](mailto:smrizvi.i29@gmail.com)  
+- **Email**: [22203174@iubat.edu](mailto:smri29.ml@gmail.com) 
 - **GitHub**: [smri29](https://github.com/smri29)
 
 ---
