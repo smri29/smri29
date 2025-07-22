@@ -1,9 +1,3 @@
-# 🚀 Shah Mohammad Rizvi – Premium GitHub README Revamp
-
-
-  
-
-
 # 👋 Hi, I'm **Shah Mohammad Rizvi**  
 ### 📊 Researcher ● 📡 Machine Learning ● 💻 Student
 
