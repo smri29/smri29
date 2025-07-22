@@ -59,25 +59,6 @@
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&styledIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=whitetter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&ebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white://www.facebook.com/Shah.M](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white://www.instagram.com/smr_i **Email:** [smri29.ml@gmail.com](mailto:smri29.ml@gmail.com)
 
-## 💡 The Premium Touch
-
-- Interactive **GIFs** or SVG banners with subtle neural/electric motifs
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) badges
-- [Dynamic Stats Cards](https://github.com/anuraghazra/github-readme-stats) for GitHub metrics
-- Custom animated SVG waves and dividers for elegant section breaks (using [SVG Backgrounds](https://svgbackgrounds.com/))
-- Emoji-powered sections for easy eye-scanning
-- Pin flagship projects with interactive demo GIFs or shield badges
-- Futuristic "glassmorphism" CSS panels for visuals (supported by Markdown rendering limitations)
-- *Optional:* Use [LottieFiles](https://lottiefiles.com/) or SVG animations for advanced visuals
-
-## 🔥 Markdown Animation & Design Tips
-
-- Use [Shields.io](https://shields.io/) for skill badges and project status indicators.
-- Add [GitHub Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats) for coding streak highlights.
-- Incorporate minimal SVG or GIF dividers between sections for instant visual upgrade.
-- Profile SVG banners or animated headers for that *wow factor*.
-- Intelligently “layer” visuals and code snippets to create a modern, vibrant, and *premium* feel.
-
 
 
 ✨ “The journey of a thousand miles begins with a single step.” ✨
