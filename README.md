@@ -1,7 +1,7 @@
 <!-- Hero / Top -->
 
 # 👋 Hi - I'm **Shah Mohammad Rizvi**  
-### ML Researcher • Student (CSE @ IUBAT) • Founder @ CollabCircle
+### ML Researcher • Student @ IUBAT • Founder @ CollabCircle
 
 [![Email](https://img.shields.io/badge/Email-smri29.ml%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:smri29.ml@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smri29-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/smri29/)
@@ -10,7 +10,7 @@
 [![CollabCircle](https://img.shields.io/badge/CollabCircle-Research-orange?style=flat&logo=researchgate)](https://www.linkedin.com/company/collabcircle-official/)
 
 <p align="center">
-  <img src="https://github.com/smri29/smri29/blob/main/neural.gif" alt="neural gif" width="220" />
+  <img src="https://github.com/smri29/smri29/blob/main/neural.gif" alt="neural gif" width="400" />
 </p>
 
 ---
