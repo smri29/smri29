@@ -35,7 +35,7 @@ I build research-driven machine learning systems - from datasets & explainable m
 | **Bengali Digit Recognition (Attention Network)** | Custom attention mechanism applied to handwritten digit classification in Bengali | PyTorch, CNN + attention modules | Conference paper / improved recognition baseline |
 | **Vehicle Management System** | Full-stack vehicle management web application for operations & record-keeping | MERN (React, Node, Express, MongoDB) | Deployed demo / admin + user dashboards |
 
-> Each project has a dedicated repo — see my repositories for code, datasets, and notebooks.
+> Each project has a dedicated repo - see my repositories for code, datasets, and notebooks.
 
 ---
 
@@ -72,7 +72,7 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 
 ---
 
-## ✅ Quick call-to-action
+## ✅ Quick calls
 - 🔎 Check my **repositories** to see code + demos.  
 - 📩 Want to collaborate? Send a short email with “Collab_smri29” in the subject.  
 - 📜 Need my CV? DM for the latest copy.
@@ -97,6 +97,6 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 
 <footer>
 <p align="center">
-  <sub>Built with ☕ and a lot of curiosity | © Shah Mohammad Rizvi</sub>
+  <sub>Built with ☕ and a lot of curiosity | From Bangladesh to breakthroughs... |© Shah Mohammad Rizvi</sub>
 </p>
 </footer>
