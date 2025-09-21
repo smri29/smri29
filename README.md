@@ -63,7 +63,7 @@ Academic research, experimental design, technical writing, teamwork, project man
 ---
 
 ## 🤝 Collaboration, Hiring & Contacts
-- **Email:** smri29.ml@gmail.com  
+- **Email:** smrizvi.i29@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/smri29/  
 - **Kaggle:** https://www.kaggle.com/shahmohammadrizvi  
 - **CollabCircle:** collabcircle.official@gmail.com
