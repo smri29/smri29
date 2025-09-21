@@ -108,32 +108,10 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 
 ---
 
-## ✨ Quick extras (optional)
+## ✨ 
 <p align="center">
-  <!-- Open to collaborate / available badges -->
-  <img src="https://img.shields.io/badge/Open%20to-Collab-Research--Internships-brightgreen?style=flat" alt="Open to collaborate" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Available%20for-Internship-blue?style=flat" alt="Available for internship" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Co-founder-CollabCircle-orange?style=flat" alt="CollabCircle" />
 </p>
 
-### 📄 Download / Quick links
-- 📥 [Download CV (add `Rizvi_CV.pdf` to the repo root to enable this link)](Rizvi_CV.pdf)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/smri29/) · [Kaggle](https://www.kaggle.com/shahmohammadrizvi)
 
-### 📚 Publications (expand for quick access)
-<details>
-<summary>View publications & BibTeX</summary>
-
-- **Deep Learning Based Tomato Leaf Disease Classification** — *(Conference)* — [PDF `publications/tomato_paper.pdf`](/publications/tomato_paper.pdf)  
-- **Voice-Based Parkinson's Disease Detection** — *(Conference)* — [PDF `publications/parkinson_voice.pdf`](/publications/parkinson_voice.pdf)
-
-#### BibTeX (example)
-```bibtex
-@inproceedings{rizvi2025tomato,
-  title = {Deep Learning Based Tomato Leaf Disease Classification},
-  author = {Rizvi, Shah Mohammad},
-  year = {2025},
-  booktitle = {Conference Name}
-}
