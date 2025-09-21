@@ -112,6 +112,9 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 <p align="center">
   <img src="https://img.shields.io/badge/Available%20for-Internship-blue?style=flat" alt="Available for internship" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Available%20for-Entry%20Level%20Positions-green?style=flat" alt="Available for entry level positions" />
+  &nbsp;
 </p>
+
 
 
