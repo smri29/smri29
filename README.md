@@ -25,12 +25,15 @@ I build research-driven machine learning systems - from datasets & explainable m
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Glimse of Projects
 | Project | What I built | Tech | Outcome |
 |---|---:|---|---|
 | **Tomato Leaf Disease Detection** | Large image dataset → trained/compared EfficientNetB3 & VGG16 → deployment-ready pipeline | Python, TensorFlow/Keras, OpenCV | Journal draft / Kaggle-ready dataset |
 | **Parkinson's Disease Detection (Voice)** | Feature engineering + SVM/XGBoost ensemble for voice signals | Python, scikit-learn, librosa | Conference paper + poster |
 | **CollabCircle Official Website** | Organization website for ML research collaboration | MERN (React, Node, Express, MongoDB) | Live / community onboarding |
+| **Heart Disease Detection** | Multi-model pipeline combining clinical features with survival analysis; explainability added via SHAP | Python, scikit-learn, lifelines, SHAP, Pandas | Conference paper / explainable model for clinical research |
+| **Bengali Digit Recognition (Attention Network)** | Custom attention mechanism applied to handwritten digit classification in Bengali | PyTorch, CNN + attention modules | Conference paper / improved recognition baseline |
+| **Vehicle Management System** | Full-stack vehicle management web application for operations & record-keeping | MERN (React, Node, Express, MongoDB) | Deployed demo / admin + user dashboards |
 
 > Each project has a dedicated repo — see my repositories for code, datasets, and notebooks.
 
@@ -75,7 +78,8 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 - 📜 Need my CV? DM for the latest copy.
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=smri29)
+---
 <footer>
 <p align="center">
   <sub>Built with ☕ and a lot of curiosity | © Shah Mohammad Rizvi</sub>
