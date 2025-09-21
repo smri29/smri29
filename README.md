@@ -78,6 +78,10 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 - 📜 Need my CV? DM for the latest copy.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smri29&show_icons=true&theme=default" alt="Rizvi's GitHub stats" />
+</p>
+---
 ![Profile views](https://komarev.com/ghpvc/?username=smri29)
 ---
 <footer>
