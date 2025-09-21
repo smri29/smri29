@@ -97,14 +97,9 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 
 <footer>
 <p align="center">
-  <sub>Built with ☕ and a lot of curiosity | From Bangladesh to breakthroughs... |© Shah Mohammad Rizvi</sub>
+  <sub>Built with ☕ and a lot of curiosity | From Bangladesh to breakthroughs... | © Shah Mohammad Rizvi</sub>
 </p>
 </footer>
-
-<!-- =========================
-     OPTIONAL TOUCH-ONS (paste BELOW your existing footer)
-     These do not change your current content — they only add extra, helpful items.
-     ========================= -->
 
 ---
 
