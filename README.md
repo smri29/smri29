@@ -72,7 +72,7 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 
 ---
 
-## ✅ Quick calls
+## Quick calls
 - 🔎 Check my **repositories** to see code + demos.  
 - 📩 Want to collaborate? Send a short email with “Collab_smri29” in the subject.  
 - 📜 Need my CV? DM for the latest copy.
