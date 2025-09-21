@@ -84,7 +84,11 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 </p>
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=smri29)
+<p align="center">
+  <a href="https://github.com/smri29">
+    <img src="https://komarev.com/ghpvc/?username=smri29" alt="Profile views" />
+  </a>
+</p>
 ---
 
 <footer>
