@@ -1,7 +1,4 @@
 <!-- Hero / Top -->
-<p align="center">
-  <img src="https://github.com/smri29/smri29/blob/main/neural.gif" alt="neural gif" width="220" />
-</p>
 
 # 👋 Hi - I'm **Shah Mohammad Rizvi**  
 ### ML Researcher • Student (CSE @ IUBAT) • Founder @ CollabCircle
@@ -11,6 +8,10 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-shahmohammadrizvi-orange?style=flat&logo=kaggle)](https://www.kaggle.com/shahmohammadrizvi)
 [![GitHub](https://img.shields.io/badge/GitHub-smri29-181717?style=flat&logo=github&logoColor=white)](https://github.com/smri29)
 [![CollabCircle](https://img.shields.io/badge/CollabCircle-Research-orange?style=flat&logo=researchgate)](https://www.linkedin.com/company/collabcircle-official/)
+
+<p align="center">
+  <img src="https://github.com/smri29/smri29/blob/main/neural.gif" alt="neural gif" width="220" />
+</p>
 
 ---
 
