@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smri29-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/smri29/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-shahmohammadrizvi-orange?style=flat&logo=kaggle)](https://www.kaggle.com/shahmohammadrizvi)
 [![GitHub](https://img.shields.io/badge/GitHub-smri29-181717?style=flat&logo=github&logoColor=white)](https://github.com/smri29)
-[![CollabCircle](https://img.shields.io/badge/LinkedIn-smri29-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/collabcircle-official/)
+[![CollabCircle](https://img.shields.io/badge/LinkedIn-CollabCircleOfficial-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/collabcircle-official/)
 
 <p align="center">
   <img src="https://github.com/smri29/smri29/blob/main/neural.gif" alt="neural gif" width="400" />
