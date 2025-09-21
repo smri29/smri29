@@ -1,7 +1,7 @@
 # 👋 Hi - I'm **Shah Mohammad Rizvi**  
 ### ML Researcher • Student @ IUBAT • Founder @ CollabCircle
 
-[![Email](https://img.shields.io/badge/Email-smri29.ml%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:smri29.ml@gmail.com)
+[![Email](https://img.shields.io/badge/Email-smrizvi.i29%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:smrizvi.i29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smri29-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/smri29/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-shahmohammadrizvi-orange?style=flat&logo=kaggle)](https://www.kaggle.com/shahmohammadrizvi)
 [![CollabCircle](https://img.shields.io/badge/LinkedIn-CollabCircleOfficial-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/collabcircle-official/)
