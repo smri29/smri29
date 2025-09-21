@@ -85,13 +85,7 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 </p>
 
 <p align="center">
-  <!-- Top languages card to avoid small-label rendering issues (shows full names) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smri29&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Fallback explicit top-language text (fixes display ambiguity such as 'C+' issues) -->
-  <strong>Top language (explicit):</strong> C++
 </p>
 
 ---
