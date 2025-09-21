@@ -80,7 +80,7 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 ---
 
 <!-- GitHub stats + Top languages -->
-p align="center">
+<p align="center">
   <!-- Top languages card (shows full language names and bars) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smri29&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
 </p>
