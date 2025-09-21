@@ -3,7 +3,7 @@
   <img src="https://github.com/smri29/smri29/blob/main/neural.gif" alt="neural gif" width="220" />
 </p>
 
-# 👋 Hi — I'm **Shah Mohammad Rizvi**  
+# 👋 Hi - I'm **Shah Mohammad Rizvi**  
 ### ML Researcher • Student (CSE @ IUBAT) • Founder @ CollabCircle
 
 [![Email](https://img.shields.io/badge/Email-smri29.ml%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:smri29.ml@gmail.com)
