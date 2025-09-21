@@ -78,13 +78,10 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 - 📜 Need my CV? DM for the latest copy.
 
 ---
-<!-- GitHub stats + Top languages -->
-<p align="center">
-  <!-- Main stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smri29&show_icons=true&theme=default" alt="Rizvi's GitHub stats" />
-</p>
 
-<p align="center">
+<!-- GitHub stats + Top languages -->
+p align="center">
+  <!-- Top languages card (shows full language names and bars) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smri29&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
 </p>
 
