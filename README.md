@@ -91,6 +91,18 @@ Open to: research collaboration, internship opportunities, mentoring, and projec
 </p>
 ---
 
+<p align="center">
+  <a href="https://github.com/smri29">
+    <img src="https://komarev.com/ghpvc/?username=smri29" alt="Profile views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/smri29/smri29">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=smri29.smri29" alt="Visitor Count" />
+  </a>
+</p>
+
+---
+
 <footer>
 <p align="center">
   <sub>Built with ☕ and a lot of curiosity | © Shah Mohammad Rizvi</sub>
