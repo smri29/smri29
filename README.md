@@ -4,11 +4,11 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shah%20Mohammad%20Rizvi&fontAlign=50&fontAlignY=36&desc=AI/ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Researcher&descAlign=50&descAlignY=57&color=0:0f172a,50:1d4ed8,100:06b6d4&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Shah%20Mohammad%20Rizvi&fontAlign=50&fontAlignY=36&desc=AI/ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Researcher&descAlign=50&descAlignY=58&color=0:0b1220,40:1d4ed8,80:0ea5e9,100:22d3ee&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+production-ready+AI+systems+and+real-time+web+apps;RAG+Pipelines+%7C+Computer+Vision+%7C+MERN+%7C+MLOps;From+Bangladesh+to+breakthroughs." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1100&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+research-grade+AI+systems+and+production+web+apps;RAG+%7C+Computer+Vision+%7C+MERN+%7C+MLOps;From+Bangladesh+to+global+impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,131 +21,80 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Jr%20AI%2FML%20and%20Full--Stack%20Roles-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Jr%20AI%2FML%20Roles-16a34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Jr%20Full--Stack%20Roles-2563eb?style=flat-square" />
   <img src="https://img.shields.io/badge/Availability-Immediate%20Full--Time-f59e0b?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-334155?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/smri29/smri29/blob/main/neural.gif" alt="neural gif" width="420"/>
+  <img src="https://img.shields.io/github/followers/smri29?style=flat-square&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/smri29?style=flat-square&logo=github&label=Total%20Stars" />
+  <img src="https://komarev.com/ghpvc/?username=smri29&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smri29/smri29/main/pf.gif" alt="Portfolio GIF" width="820" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build **research-grade AI systems** and **production-ready web applications** end-to-end — from data pipelines and model training to deployment and UI delivery.
+I build **research-grade AI systems** and **production-ready web platforms** end-to-end — from dataset engineering and model design to API deployment and user-facing applications.
 
-- 🎓 BSc in CSE (IUBAT), CGPA: **3.82**  
-- 🧠 Core focus: **RAG systems, Computer Vision, Time-Series, Secure AI-enabled Apps**
-- 🚀 Deployment stack: **FastAPI / Streamlit / MERN / Docker / CI/CD**
-- 👥 Founder of **CollabCircle** (research collaboration community)
+- 🎓 BSc in CSE (IUBAT)  
+- 🧠 Focus areas: **RAG**, **Computer Vision**, **Time-Series**, **Security AI**, **Applied ML**  
+- 🚀 Delivery stack: **Python / FastAPI / Streamlit / MERN / Docker / CI/CD**  
+- 👥 Founder, **CollabCircle** (research collaboration initiative)  
 - 🌐 Languages: **Bangla, English**
 
 ---
 
-## ⚡ Impact Snapshot
+## ⚡ Core Strengths
 
-| Area | What I deliver |
+| Domain | What I Deliver |
 |---|---|
-| **AI/ML Engineering** | RAG assistants, deep-learning pipelines, model evaluation, explainability (SHAP), reproducible experimentation |
-| **Full-Stack Engineering** | Scalable MERN apps, real-time features with Socket.io, JWT/OAuth auth, API-driven architecture |
-| **MLOps & Delivery** | Dockerized services, CI/CD pipelines, cloud deployment on Render/Vercel |
-| **Research & Communication** | Publication-oriented experimentation, technical writing, reproducible reporting |
+| **AI/ML Engineering** | RAG assistants, predictive modeling, explainability (SHAP), robust evaluation pipelines |
+| **Full-Stack Engineering** | Scalable MERN apps, secure auth, real-time Socket.io systems, API-first architecture |
+| **MLOps & Deployment** | Dockerized apps, reproducible workflows, Render/Vercel/Streamlit delivery |
+| **Research & Writing** | Publication-oriented experimentation, clear reporting, practical benchmarking |
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Project Showcase
 
-> **Tip:** Replace search links with exact repo URLs for each project once finalized.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ Orbit — GenAI Research Assistant</h3>
-      <p>RAG-powered internal assistant for policy/research querying using LangChain, Gemini, local embeddings, and ChromaDB.</p>
-      <p><b>Stack:</b> Python, LangChain, HuggingFace, ChromaDB, Streamlit, Docker</p>
-      <a href="https://github.com/search?q=user%3Asmri29+Orbit&type=repositories">Repo</a> •
-      <a href="https://smri29net.vercel.app/">Case Study</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☀️ SolarTwin AI</h3>
-      <p>Universal spatio-temporal transformer for multi-site solar forecasting with dashboard deployment and optimized serving.</p>
-      <p><b>Stack:</b> Python, TensorFlow, Pandas, FastAPI, Streamlit</p>
-      <a href="https://github.com/search?q=user%3Asmri29+SolarTwin&type=repositories">Repo</a> •
-      <a href="https://smri29net.vercel.app/">Case Study</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ LENSGuard</h3>
-      <p>Hybrid NIDS combining 1D-CNN + VAE for known attacks and zero-day anomaly detection with real-time monitoring dashboard.</p>
-      <p><b>Stack:</b> PyTorch, scikit-learn, Streamlit, Socket.io, Docker</p>
-      <a href="https://github.com/search?q=user%3Asmri29+LENSGuard&type=repositories">Repo</a> •
-      <a href="https://smri29net.vercel.app/">Case Study</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 SafeSkinAI</h3>
-      <p>Computational toxicology platform predicting carcinogenicity and reproductive toxicity with explainable outputs.</p>
-      <p><b>Stack:</b> XGBoost, scikit-learn, SHAP, Streamlit, Plotly</p>
-      <a href="https://github.com/search?q=user%3Asmri29+SafeSkinAI&type=repositories">Repo</a> •
-      <a href="https://smri29net.vercel.app/">Case Study</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔴 BidPulse</h3>
-      <p>Real-time auction platform with live bidding, JWT auth, payment integration, and event-driven backend architecture.</p>
-      <p><b>Stack:</b> React, Node.js, Express, MongoDB, Socket.io</p>
-      <a href="https://github.com/search?q=user%3Asmri29+BidPulse&type=repositories">Repo</a> •
-      <a href="https://smri29net.vercel.app/">Case Study</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 Vehicle Management System</h3>
-      <p>Full-stack platform with Google Maps/Weather API integration, SMTP notifications, Stripe payments, and role-based features.</p>
-      <p><b>Stack:</b> React, Node.js, Express, MongoDB, Stripe, JWT</p>
-      <a href="https://github.com/search?q=user%3Asmri29+Vehicle+Management+System&type=repositories">Repo</a> •
-      <a href="https://smri29net.vercel.app/">Case Study</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📚 Research & Publications (Selected)
-
-- Voice-based Parkinson’s Disease Detection using SVM & XGBoost  
-- Reproducible ML Pipeline for Cosmetic Chemical Toxicity Prediction (ICCIT 2025)  
-- Clinical vs Ultrasound for PCOS Detection: Calibrated, Leakage-Safe Benchmark (ICCIT 2025)  
-- LENS-Guard: Lightweight Hybrid VAE-CNN for Intrusion Detection (Accepted, ICECTE 2026)
+| # | Project | Category | GitHub | Live | Status |
+|---|---|---|---|---|---|
+| 1 | **Orbit** | GenAI / RAG | [Repo](https://github.com/smri29/Orbit) | [Live](https://orbitai.streamlit.app/) | ✅ Active |
+| 2 | **SolarTwin AI** | Time-Series / Forecasting | [Repo](https://github.com/smri29/SolarTwinUstt) | [Live](https://solartwinai.streamlit.app/) | ✅ Active |
+| 3 | **SafeSkin AI** | Health AI / Toxicology | [Repo](https://github.com/smri29/SafeSkinAI) | [Live](https://safeskinai.streamlit.app/) | ✅ Active |
+| 4 | **LENSGuard** | Cybersecurity AI | [Repo](https://github.com/smri29/LENSGuardApp) | [Live](https://lensguardapp.streamlit.app/#hybrid-1-d-cnn-vae-network-intrusion-detection) | ✅ Active |
+| 5 | **RobustMOTOcclusion** | Computer Vision / Tracking | [Repo](https://github.com/smri29/RobustMOTOcclusion) | [Live](https://robustmot.streamlit.app/) | ✅ Active |
+| 6 | **Sex Education Discourse N-gram (US/UK 1922–2022)** | NLP / Dataset | [Repo](https://github.com/smri29/Sex-Education-Discourse-Ngram-US-UK-1922-2022) | — | ✅ Published |
+| 7 | **Vehicle Management System** | MERN Application | [Repo](https://github.com/smri29/VMS-MERN-Stack) | [Live](https://vms-mern-stack.onrender.com/) | ✅ Active |
+| 8 | **BidPulse** | Real-Time Full-Stack | [Repo](https://github.com/smri29/BidPulse) | [Live](https://bid-pulse.vercel.app/) | ✅ Active |
+| 9 | **PyForge** | Python Tooling | [Repo](https://github.com/smri29/PyForge) | Coming Soon | 🛠️ Ongoing |
+| 10 | **CampusFind** | Product / Platform | [Repo](https://github.com/smri29/CampusFind) | Coming Soon | 🔒 Private / Ongoing |
+| 11 | **Mini-E-Commerce-API** | Backend / REST API | [Repo](https://github.com/smri29/Mini-E-Commerce-API) | [Live](https://ecommerceapi-pg15.onrender.com/) | ✅ Active |
+| 12 | **CollabCircle** | Community / Platform | [Repo](https://github.com/smri29/CollabCircle) | Coming Soon | 🛠️ Ongoing |
 
 ---
 
 ## 🧰 Tech Stack
 
-### AI / ML / Data
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat"/>
-  <img src="https://img.shields.io/badge/ChromaDB-4B5563?style=flat"/>
-  <img src="https://img.shields.io/badge/SHAP-0EA5E9?style=flat"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,react,nextjs,nodejs,express,mongodb,fastapi,flask,docker,git,github,linux,cpp,java,dart,flutter,mysql,postgres&perline=11" />
 </p>
 
-### Full-Stack / Deployment
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/SHAP-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -165,49 +114,48 @@ I build **research-grade AI systems** and **production-ready web applications** 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smri29&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smri29&theme=algolia&margin-w=12&margin-h=12&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smri29/smri29/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smri29/smri29/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/smri29/smri29/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Scaling **Orbit** and multi-agent RAG workflows  
+- Improving robustness in **RobustMOTOcclusion** under severe occlusion  
+- Production-ready releases for **PyForge**, **CampusFind**, and **CollabCircle**
+
 ---
 
 ## 🤝 Collaboration / Hiring
 
 I’m open to:
-- **Jr AI/ML Engineer**
-- **Jr Full-Stack Developer**
-- **AI-integrated Product Engineering Roles**
+- **Jr AI/ML Engineer** roles  
+- **Jr Full-Stack Developer** roles  
+- **AI-integrated product engineering** opportunities  
 - **Research collaborations and internships**
 
 <p align="left">
   <a href="mailto:smri29.ml@gmail.com"><img src="https://img.shields.io/badge/Email-smri29.ml%40gmail.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/smri29/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/shahmohammadrizvi"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://smri29net.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
-
-## 🛠️ Premium Add-ons (Recommended)
-
-<details>
-  <summary><b>Click to expand setup checklist</b></summary>
-  <br>
-
-- [ ] Replace all **search links** with exact project repo links  
-- [ ] Add pinned repos that match your strongest hiring narrative:
-  - 2 AI/ML projects
-  - 2 full-stack projects
-  - 1 research repo
-  - 1 deployment/MLOps repo
-- [ ] Add contribution snake animation:
-  - Use `Platane/snk` GitHub Action
-  - Output file: `output/github-contribution-grid-snake.svg`
-- [ ] Add portfolio screenshot/GIF into `/assets` and reference it
-- [ ] Keep “About Me” to max 6 bullets (readability > fluff)
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smri29&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
 
 <p align="center">
   <sub>Built with precision, shipped with purpose. © Shah Mohammad Rizvi</sub>
