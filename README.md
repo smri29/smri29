@@ -4,7 +4,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Shah%20Mohammad%20Rizvi&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Researcher&descAlign=50&descAlignY=57&color=0:0B1020,30:111827,65:1E3A8A,100:06B6D4&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=245&text=Shah%20Mohammad%20Rizvi&fontAlign=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Researcher&descAlign=50&descAlignY=57&color=0:0B1020,30:111827,65:1E3A8A,100:06B6D4&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
@@ -41,24 +41,27 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smri29/smri29/main/smr.jpg" alt="Shah Mohammad Rizvi" width="260" />
+  <img src="https://raw.githubusercontent.com/smri29/smri29/main/smr.jpg" alt="Shah Mohammad Rizvi" width="420" />
 </p>
 
+<!-- Section Nav Buttons -->
 <p align="center">
-  <a href="#-about">About</a> •
-  <a href="#-core-capabilities">Capabilities</a> •
-  <a href="#-project-galaxy">Project Galaxy</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-collabcircle">CollabCircle</a> •
-  <a href="#-collaboration--hiring">Hiring</a>
+  <a href="#about"><img src="https://img.shields.io/badge/About-111827?style=for-the-badge&logoColor=white" /></a>
+  <a href="#core-capabilities"><img src="https://img.shields.io/badge/Capabilities-1E3A8A?style=for-the-badge&logoColor=white" /></a>
+  <a href="#project-galaxy"><img src="https://img.shields.io/badge/Project%20Galaxy-0EA5E9?style=for-the-badge&logoColor=white" /></a>
+  <a href="#top-languages-showcase"><img src="https://img.shields.io/badge/Top%20Languages-0F766E?style=for-the-badge&logoColor=white" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-334155?style=for-the-badge&logoColor=white" /></a>
+  <a href="#contribution-snake"><img src="https://img.shields.io/badge/Snake-16A34A?style=for-the-badge&logoColor=white" /></a>
+  <a href="#collabcircle"><img src="https://img.shields.io/badge/CollabCircle-2563EB?style=for-the-badge&logoColor=white" /></a>
+  <a href="#collaboration--hiring"><img src="https://img.shields.io/badge/Hiring-D97706?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
 
+<a id="about"></a>
 ## 👨‍💻 About
 
-I build **research-grade AI systems** and **production-ready full-stack applications** end-to-end — from data and modeling pipelines to deployment and user-facing delivery.
+I build **research-grade AI systems** and **production-ready full-stack applications** end-to-end — from data and model pipelines to deployment and user-facing delivery.
 
 - 🎓 BSc in CSE (IUBAT)  
 - 🧠 Focus: **RAG**, **Computer Vision**, **Time-Series**, **Security AI**, **Applied ML**  
@@ -68,76 +71,84 @@ I build **research-grade AI systems** and **production-ready full-stack applicat
 
 ---
 
+<a id="core-capabilities"></a>
 ## ⚡ Core Capabilities
 
 ### 🧠 AI/ML Engineering
-> RAG assistants, predictive modeling, explainability (SHAP), robust evaluation and reproducible experimentation.
+RAG assistants, predictive modeling, explainability (SHAP), robust evaluation workflows, reproducible experiments.
 
 ### 🌐 Full-Stack Engineering
-> Scalable MERN platforms, secure authentication, real-time systems with Socket.io, API-first architecture.
+Scalable MERN systems, secure authentication, API-first architecture, real-time apps with Socket.io.
 
 ### 🚢 Deployment & MLOps
-> Dockerized services, cloud deployment (Render/Vercel/Streamlit), CI-ready delivery workflow.
+Dockerized services, cloud deployment (Render/Vercel/Streamlit), delivery-focused iteration.
 
 ### 📝 Research & Communication
-> Publication-driven methodology, technical documentation, practical benchmarking for real outcomes.
+Publication-driven methodology, technical writing, and practical benchmark design.
 
 ---
 
+<a id="project-galaxy"></a>
 ## 🌌 Project Galaxy
 
-<details open>
-<summary><b>🧠 AI / ML / Research Products</b></summary>
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-- **🛰️ Orbit** — GenAI RAG assistant for research workflows  
-  🔗 [GitHub](https://github.com/smri29/Orbit) • [Live](https://orbitai.streamlit.app/)  
+### 🧠 AI / ML Live Systems
+- **🛰️ Orbit**  
+  [GitHub](https://github.com/smri29/Orbit) • [Live](https://orbitai.streamlit.app/)  
   <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
 
-- **☀️ SolarTwin AI** — Spatio-temporal forecasting platform  
-  🔗 [GitHub](https://github.com/smri29/SolarTwinUstt) • [Live](https://solartwinai.streamlit.app/)  
+- **☀️ SolarTwin AI**  
+  [GitHub](https://github.com/smri29/SolarTwinUstt) • [Live](https://solartwinai.streamlit.app/)  
   <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
 
-- **🧪 SafeSkin AI** — Toxicity prediction and explainability app  
-  🔗 [GitHub](https://github.com/smri29/SafeSkinAI) • [Live](https://safeskinai.streamlit.app/)  
+- **🧪 SafeSkin AI**  
+  [GitHub](https://github.com/smri29/SafeSkinAI) • [Live](https://safeskinai.streamlit.app/)  
   <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
 
-- **🛡️ LENSGuard** — Hybrid 1D-CNN + VAE intrusion detection  
-  🔗 [GitHub](https://github.com/smri29/LENSGuardApp) • [Live](https://lensguardapp.streamlit.app/#hybrid-1-d-cnn-vae-network-intrusion-detection)  
+- **🛡️ LENSGuard**  
+  [GitHub](https://github.com/smri29/LENSGuardApp) • [Live](https://lensguardapp.streamlit.app/#hybrid-1-d-cnn-vae-network-intrusion-detection)  
   <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
 
-- **🎯 RobustMOTOcclusion** — Occlusion-robust computer vision tracking  
-  🔗 [GitHub](https://github.com/smri29/RobustMOTOcclusion) • [Live](https://robustmot.streamlit.app/)  
+- **🎯 RobustMOTOcclusion**  
+  [GitHub](https://github.com/smri29/RobustMOTOcclusion) • [Live](https://robustmot.streamlit.app/)  
   <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
 
-- **📚 Sex Education Discourse N-gram (US/UK 1922–2022)** — NLP dataset and trend analysis  
-  🔗 [GitHub](https://github.com/smri29/Sex-Education-Discourse-Ngram-US-UK-1922-2022)  
+    </td>
+    <td width="50%" valign="top">
+
+### 🌐 Full-Stack / Backend Products
+- **🚗 Vehicle Management System**  
+  [GitHub](https://github.com/smri29/VMS-MERN-Stack) • [Live](https://vms-mern-stack.onrender.com/)  
+  <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
+
+- **🔴 BidPulse**  
+  [GitHub](https://github.com/smri29/BidPulse) • [Live](https://bid-pulse.vercel.app/)  
+  <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
+
+- **🧩 Mini-E-Commerce-API**  
+  [GitHub](https://github.com/smri29/Mini-E-Commerce-API) • [Live](https://ecommerceapi-pg15.onrender.com/)  
+  <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📚 Research / Dataset Work
+- **Sex Education Discourse N-gram (US/UK 1922–2022)**  
+  [GitHub](https://github.com/smri29/Sex-Education-Discourse-Ngram-US-UK-1922-2022)  
   <img src="https://img.shields.io/badge/Status-Published-2563EB?style=flat-square" />
 
-</details>
+- **Research direction highlights**  
+  RAG systems • Tracking under occlusion • Applied health AI • Explainability-first ML
 
-<details open>
-<summary><b>🌐 Full-Stack / Backend Products</b></summary>
-<br>
+    </td>
+    <td width="50%" valign="top">
 
-- **🚗 Vehicle Management System** — End-to-end MERN management platform  
-  🔗 [GitHub](https://github.com/smri29/VMS-MERN-Stack) • [Live](https://vms-mern-stack.onrender.com/)  
-  <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
-
-- **🔴 BidPulse** — Real-time auction product  
-  🔗 [GitHub](https://github.com/smri29/BidPulse) • [Live](https://bid-pulse.vercel.app/)  
-  <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
-
-- **🧩 Mini-E-Commerce-API** — Backend REST API project  
-  🔗 [GitHub](https://github.com/smri29/Mini-E-Commerce-API) • [Live](https://ecommerceapi-pg15.onrender.com/)  
-  <img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square" />
-
-</details>
-
-<details>
-<summary><b>🛠️ Ongoing Builds</b></summary>
-<br>
-
+### 🛠️ Ongoing Builds
 - **PyForge** — [GitHub](https://github.com/smri29/PyForge)  
   <img src="https://img.shields.io/badge/Ongoing-Live%20Soon-D97706?style=flat-square" />
 
@@ -147,10 +158,32 @@ I build **research-grade AI systems** and **production-ready full-stack applicat
 - **CollabCircle Platform** — [GitHub](https://github.com/smri29/CollabCircle)  
   <img src="https://img.shields.io/badge/Ongoing-Live%20Soon-D97706?style=flat-square" />
 
-</details>
+    </td>
+  </tr>
+</table>
 
 ---
 
+<a id="top-languages-showcase"></a>
+## 🧠 Top Languages Showcase
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-1E293B?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=openjdk&logoColor=EA2D2E" />
+  <img src="https://img.shields.io/badge/Dart-1E293B?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/Bash-1E293B?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+</p>
+
+---
+
+<a id="tech-stack"></a>
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -169,20 +202,7 @@ I build **research-grade AI systems** and **production-ready full-stack applicat
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- Stable cards only (removed flaky trophy/activity providers) -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smri29&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=github_dark_dimmed&cache_seconds=7200" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=smri29&hide_border=true&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smri29&layout=compact&hide_border=true&theme=github_dark_dimmed&cache_seconds=7200" alt="Top languages" />
-</p>
-
----
-
+<a id="contribution-snake"></a>
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -195,6 +215,7 @@ I build **research-grade AI systems** and **production-ready full-stack applicat
 
 ---
 
+<a id="collabcircle"></a>
 ## 🌐 CollabCircle
 
 A research-first student community focused on AI collaboration, learning, and real-world project execution.
@@ -224,7 +245,8 @@ A research-first student community focused on AI collaboration, learning, and re
 
 ---
 
-## 🤝 Collaboration / Hiring
+<a id="collaboration--hiring"></a>
+## 🤝 Collaboration & Hiring
 
 I’m open to:
 
